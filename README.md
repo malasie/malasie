@@ -5,9 +5,9 @@
 I'm currently a University Student, getting my bachelor degree in Mathematical Modeling and Data Science soon (hopefully)!  💪🎓</p>
 </br>
 <h2> My goals </h2>
-<p> As for now I mostly focus on improving myself and my knowlage! And getting my diploma!🎓</br> 
-  In the future I'd like to work in a tech company as either data scientist or programmer! 💻👩‍💻</br> 
-  Or maybe in a game developent 🎮 (a little dream of mine and something I'd really like to try)!  </p>
+<p> As for now I mostly focus on improving myself and my knowledge! And getting my diploma!🎓</br>
+In the future, I'd like to work in a tech company as either a data scientist or programmer! 💻👩‍💻</br>
+Or maybe in game development 🎮 (a little dream of mine and something I'd really like to try)! </p>
   </br>
   <h2> Programming languages </h2>
   <img src="https://github.com/malasie/malasie/blob/main/language.png"> 
