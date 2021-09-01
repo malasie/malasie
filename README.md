@@ -10,7 +10,7 @@ I'm currently a University Student, getting my bachelor degree in Mathematical M
   Or maybe in a game developent 🎮 (a little dream of mine and something I'd really like to try)!  </p>
   </br>
   <h2> Programming languages </h2>
-  <img src="https://github.com/malasie/malasie/blob/main/language.png" width="150px"> 
+  <img src="https://github.com/malasie/malasie/blob/main/language.png"> 
 
 
 <!--
