@@ -1,5 +1,8 @@
-# Hi Everyone!    <img src="https://github.com/malasie/malasie/blob/main/hi.gif" width="100px">
-# My name is Maria ( or Mary ) 😄
+<h3 align="center"> <img src="https://github.com/malasie/malasie/blob/main/hi.gif" width="100px">    Hi Everyone !  </h3>
+<h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1.5"> </h3>
+<h2> Who am I? </h2>
+<p> My name is Maria ( or Mary )! </br>
+I'm currently a University Student, getting my bachelor degree in Mathematical Modeling and Data Science soon (hopefully)!</p>
 
 <!--
 **malasie/malasie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
