@@ -10,7 +10,7 @@ In the future, I'd like to work in a tech company as either a data scientist or 
 Or maybe in game development 🎮 (a little dream of mine and something I'd really like to try)! </p>
   </br>
   <h2> Programming languages </h2>
-  <img src="https://github.com/malasie/malasie/blob/main/language.png"> 
+  <img src="https://github.com/malasie/malasie/blob/main/language.png" width="700px"> 
 
 
 <!--
