@@ -1,4 +1,4 @@
-# Hi there  <img src="https://github.com/malasie/malasie/blob/main/hi.gif" width="80px">
+# Hi there  <img src="https://github.com/malasie/malasie/blob/main/hi.gif" width="100px">
 
 <!--
 **malasie/malasie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
