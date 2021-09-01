@@ -9,7 +9,7 @@ I'm currently a University Student, getting my bachelor degree in Mathematical M
 In the future, I'd like to work in a tech company as either a data scientist or programmer! 💻👩‍💻</br>
 Or maybe in game development 🎮 (a little dream of mine and something I'd really like to try)! </p>
   </br>
-  <h2> Programming languages </h2>
+  <h2> Languages and tools </h2>
   <img src="https://github.com/malasie/malasie/blob/main/language.png" width="700px"> 
 
 
