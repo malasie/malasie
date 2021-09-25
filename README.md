@@ -12,6 +12,8 @@ Or maybe in game development 🎮 (a little dream of mine and something I'd real
   <h2> Languages and tools </h2>
   <img src="https://github.com/malasie/malasie/blob/main/language.png" width="700px"> 
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malasie&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 **malasie/malasie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
