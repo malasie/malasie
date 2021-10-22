@@ -13,6 +13,7 @@ Or maybe in game development 🎮 (a little dream of mine and something I'd real
   <img src="https://github.com/malasie/malasie/blob/main/language.png" width="700px"> 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malasie&langs_count=6&theme=tokyonight&layout=compact)]()
+
 </br>
 <h2> What am I working on now? </h2>
 <p> I'm learning Haskell right now and mostly working with Python and R. </br>
