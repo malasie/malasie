@@ -20,7 +20,7 @@ Or maybe in game development 🎮 (a little dream of mine and something I'd real
 I'm studying about mechanical learning as well and trying to make use of it in my futrure projects. </br>
 In my free time I'm trying to improve my knowledge and skills in data science and programming languages I've been learning before.</br>
 </br>
-Not connected with data science or programming, I started also a two foreign language courses: German and Korean.  </p>
+Not connected with data science or programming, I started also two foreign language courses: German and Korean.  </p>
   
   
 <!--
