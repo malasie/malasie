@@ -6,7 +6,7 @@ I'm currently a University Student, getting my bachelor degree in Mathematical M
 </br>
 <h2> My goals </h2>
 <p> As for now I mostly focus on improving myself and my knowledge! And getting my diploma!🎓</br>
-In the future, I'd like to work in a tech company as either a data scientist or programmer! 💻👩‍💻</br>
+In the future, I'd like to work in a tech company as data scientist (or programmer)! 💻👩‍💻</br>
 Or maybe in game development 🎮 (a little dream of mine and something I'd really like to try)! </p>
   </br>
   <h2> Languages and tools </h2>
@@ -16,8 +16,8 @@ Or maybe in game development 🎮 (a little dream of mine and something I'd real
 
 </br>
 <h2> What am I working on now? </h2>
-<p> I'm learning Haskell right now and mostly working with Python and R. </br>
-I'm studying about mechanical learning as well and trying to make use of it in my futrure projects. </br>
+<p> I'm mostly working with Python and R right now. </br>
+I'm studying about machine learning as well and trying to make use of it in my futrure projects. </br>
 In my free time I'm trying to improve my knowledge and skills in data science and programming languages I've been learning before.</br>
 </br>
 Not connected with data science or programming, I started also two foreign language courses: German and Korean.  </p>
