@@ -1,4 +1,4 @@
-<h3 align="center"> <img src="https://github.com/malasie/malasie/blob/main/hi.gif" width="150px">    Hi Everyone !  </h3>
+<h3 align="center"> <img src="https://github.com/malasie/malasie/blob/main/hi.gif" width="100px">    Hi Everyone !  </h3>
 <h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"> </h3></br>
 <h2> Who am I? </h2>
 <p> My name is Maria ( or Mary )! 😄 </br>
