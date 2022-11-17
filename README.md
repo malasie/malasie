@@ -3,12 +3,12 @@
 <h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"> </h3></br>
 <h2> Who am I? </h2>
 <p> My name is Maria ( or Mary )! 😄 </br>
-I'm currently a University Student, getting my bachelor degree in Mathematical Modeling and Data Science soon !  💪🎓</p>
+I'm currently a University Student, studying Informatics and Econometrics: IT Applications in Business !  🎓</p>
 </br>
 
 <h2> My goals </h2>
-<p> As for now I mostly focus on improving myself and my knowledge! And getting my diploma!🎓</br>
-In the future, I'd like to work in a tech company as data scientist ! 💻👩‍💻</p>
+<p> As for now I mostly focus on improving myself and my knowledge! 🎓</br>
+In the future, I'd like to work in a tech company as machine learning engineer ! 💻👩‍💻</p>
   </br>
   <h2> Languages and tools </h2>
   <img src="https://github.com/malasie/malasie/blob/main/language.png" width="700px"> 
@@ -17,14 +17,14 @@ In the future, I'd like to work in a tech company as data scientist ! 💻👩�
 
 </br>
 <h2> What am I working on now? </h2>
-<p> I'm mostly working with Python and R right now. </br>
+<p> I'm mostly working with Python but I'm trying out many other languages and tools as well. </br>
 I'm studying about machine learning as well and trying to make use of it in my futrure projects. </br>
-In my free time I'm trying to improve my knowledge and skills in data science and programming languages I've been learning before. </p> 
+In my free time I'm trying to improve my knowledge and skills in data science, ML and programming languages in general. </p> 
  </br>
  
 <h2> My intrests </h2>
 <p> My free time I usually spend listening to music. I like to draw and trying diffrent creative things as well. </br>
-I believe that being open to learning and trying new hobbies help as improve. All gained knowleage and skills can be found usefull. </br>
+I believe that being open to learning and trying new hobbies help as improve as a person. All gained knowleage and skills can be found usefull. </br>
 That's why I love trying out new things a lot. </br>
 I love learning new languages (lately I've been learning mostly programming ones though :joy:). </br>
 One thing I'm curious about lately is game development and would like to see and learn the process of creating computer games. </p>
