@@ -13,7 +13,7 @@ In the future, I'd like to work in a tech company as machine learning engineer !
   <h2> Languages and tools </h2>
   <img src="https://github.com/malasie/malasie/blob/main/language.png" width="700px"> 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malasie&langs_count=6&theme=tokyonight&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malasie&langs_count=6&theme=tokyonight&layout=compact&count_private=true)]()
 
 </br>
 <h2> What am I working on now? </h2>
