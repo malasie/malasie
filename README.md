@@ -8,25 +8,27 @@ I'm currently a University Student, studying Informatics and Econometrics: IT Ap
 
 <h2> My goals </h2>
 <p> As for now I mostly focus on improving myself and my knowledge! 🎓</br>
-In the future, I'd like to work in a tech company as machine learning engineer ! 💻👩‍💻</p>
+In the future, I'd like to work as Machine Learning Engineer ! 💻👩‍💻</p>
   </br>
   <h2> Languages I mainly work with </h2>
     <p align="center">
     <!-- Python -->
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/></a>
     <!-- C# -->
-      <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" /></a>
+      <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80" /></a>
     <!-- SQL -->
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://1.bp.blogspot.com/-bBFQnSmDq6g/Xp5KJEFCJsI/AAAAAAAAAMc/gBf2EFeus8cjj0viVOGf3CBBCNncZjBjgCLcBGAsYHQ/s1600/SQL-Server-Management-Studio-Logo.png" alt="MSSql" width="50" height="50" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://1.bp.blogspot.com/-bBFQnSmDq6g/Xp5KJEFCJsI/AAAAAAAAAMc/gBf2EFeus8cjj0viVOGf3CBBCNncZjBjgCLcBGAsYHQ/s1600/SQL-Server-Management-Studio-Logo.png" alt="MSSql" width="80" height="80" /></a>
     <!-- Java -->
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/> </a>
     <!-- R -->
-    <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50" height="%0"/> </a>
-
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" alt="R" width="80" height="80"/> </a>
+</p>
+</br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malasie&langs_count=6&theme=tokyonight&layout=compact&count_private=true&exclude_repo=Interaktywne-Serwisy-Internetowe" />
 </p>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malasie&langs_count=6&theme=tokyonight&layout=compact&count_private=true&exclude_repo=Interaktywne-Serwisy-Internetowe)]()
 
 </br>
 <h2> What am I working on now? </h2>
@@ -36,7 +38,7 @@ In my free time I'm trying to improve my knowledge and skills in Data Science, M
  </p> 
  </br>
  
-<h2> My intrests </h2>
+<h2> My interests </h2>
 <p> My free time I usually spend listening to music. I like to draw and trying diffrent creative things as well. </br>
 I believe that being open to learning and trying new hobbies help as improve as a person. All gained knowleage and skills can be found usefull. </br>
 That's why I love trying out new things a lot. </br>
