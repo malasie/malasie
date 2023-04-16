@@ -33,7 +33,7 @@ In the future, I'd like to work as Machine Learning Engineer ! 💻👩‍💻</
 </br>
 <h2> What am I working on now? </h2>
 <p> I'm mostly working with Python, C# and Java. </br>
-One of my current projects I'm most excited about is related to Natural Language Processing. It will focus on technics like Keyword Extraction, Name-Etnity Recognition and Topic Modeling. </br>
+One of my current projects I'm most excited about is related to Natural Language Processing. It will focus on techniques like Keyword Extraction, Name-Etnity Recognition and Topic Modeling. </br>
 In my free time I'm trying to improve my knowledge and skills in Data Science, Machine Learning and programming languages in general.
  </p> 
  </br>
