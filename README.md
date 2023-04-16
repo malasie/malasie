@@ -10,16 +10,30 @@ I'm currently a University Student, studying Informatics and Econometrics: IT Ap
 <p> As for now I mostly focus on improving myself and my knowledge! 🎓</br>
 In the future, I'd like to work in a tech company as machine learning engineer ! 💻👩‍💻</p>
   </br>
-  <h2> Languages and tools </h2>
-  <img src="https://github.com/malasie/malasie/blob/main/language.png" width="700px"> 
+  <h2> Languages I mainly work with </h2>
+    <p align="center">
+    <!-- Python -->
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+    <!-- C# -->
+      <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" /></a>
+    <!-- SQL -->
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://1.bp.blogspot.com/-bBFQnSmDq6g/Xp5KJEFCJsI/AAAAAAAAAMc/gBf2EFeus8cjj0viVOGf3CBBCNncZjBjgCLcBGAsYHQ/s1600/SQL-Server-Management-Studio-Logo.png" alt="MSSql" width="50" height="50" /></a>
+    <!-- Java -->
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a>
+    <!-- R -->
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50" height="%0"/> </a>
+
+</p>
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malasie&langs_count=6&theme=tokyonight&layout=compact&count_private=true&exclude_repo=Interaktywne-Serwisy-Internetowe)]()
 
 </br>
 <h2> What am I working on now? </h2>
-<p> I'm mostly working with Python but I'm trying out many other languages and tools as well. </br>
-I'm studying about machine learning as well and trying to make use of it in my futrure projects. </br>
-In my free time I'm trying to improve my knowledge and skills in data science, ML and programming languages in general. </p> 
+<p> I'm mostly working with Python, C# and Java. </br>
+One of my current projects I'm most excited about is related to Natural Language Processing. It will focus on technics like Keyword Extraction, Name-Etnity Recognition and Topic Modeling. </br>
+In my free time I'm trying to improve my knowledge and skills in Data Science, Machine Learning and programming languages in general.
+ </p> 
  </br>
  
 <h2> My intrests </h2>
