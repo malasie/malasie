@@ -17,7 +17,7 @@ In the future, I'd like to work as Machine Learning Engineer ! 💻👩‍💻</
     <!-- C# -->
       <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80" /></a>
     <!-- SQL -->
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://1.bp.blogspot.com/-bBFQnSmDq6g/Xp5KJEFCJsI/AAAAAAAAAMc/gBf2EFeus8cjj0viVOGf3CBBCNncZjBjgCLcBGAsYHQ/s1600/SQL-Server-Management-Studio-Logo.png" alt="MSSql" width="80" height="80" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="T-SQL" width="80" height="80" /></a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/> </a>
     <!-- R -->
