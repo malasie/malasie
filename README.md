@@ -39,10 +39,10 @@ In my free time I'm trying to improve my knowledge and skills in Data Science, M
  </br>
  
 <h2> My interests </h2>
-<p> My free time I usually spend listening to music. I like to draw and trying diffrent creative things as well. </br>
-I believe that being open to learning and trying new hobbies help as improve as a person. All gained knowleage and skills can be found usefull. </br>
+<p> My free time I usually spend listening to music. I like drawing and trying diffrent creative things as well. </br>
+I believe that being open to learning and trying new hobbies help us improve as a person. All gained knowleage and skills can be found usefull. </br>
 That's why I love trying out new things a lot. </br>
-I love learning new languages (lately I've been learning mostly programming ones though :joy:). </br>
+I love learning new languages and currently I'm learning Korean. </br>
 One thing I'm curious about lately is game development and would like to see and learn the process of creating computer games. </p>
 
 <!--
