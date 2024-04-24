@@ -3,7 +3,7 @@
 <h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"> </h3></br>
 <h2> Who am I? </h2>
 <p> My name is Maria ( or Mary )! 😄 </br>
-I'm currently a University Student, studying Informatics and Econometrics: IT Applications in Business !  🎓</p>
+I'm currently a University Student, studying Mathematics: Geometry and Computer Graphics !  🎓</p>
 </br>
 
 <h2> My goals </h2>
