@@ -21,7 +21,7 @@ I'm currently a University Student, studying Mathematics: Geometry and Computer 
 </p>
 </br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-malasie.vercel.app/api/top-langs/?username=malasie&langs_count=6&theme=tokyonight&layout=compact&count_private=true&exclude_repo=Interaktywne-Serwisy-Internetowe" />
+  <img align="center" src="http://github-readme-stats-malasie.vercel.app/api/top-langs/?username=malasie&langs_count=6&theme=tokyonight&layout=compact&count_private=true&exclude_repo=Interaktywne-Serwisy-Internetowe" />
 </p>
 
 
