@@ -6,10 +6,6 @@
 I'm currently a University Student, studying Mathematics: Geometry and Computer Graphics !  🎓</p>
 </br>
 
-<h2> My goals </h2>
-<p> As for now I mostly focus on improving myself and my knowledge! 🎓</br>
-In the future, I'd like to work as Machine Learning Engineer ! 💻👩‍💻</p>
-  </br>
   <h2> Languages I mainly work with </h2>
     <p align="center">
     <!-- Python -->
@@ -32,8 +28,9 @@ In the future, I'd like to work as Machine Learning Engineer ! 💻👩‍💻</
 
 </br>
 <h2> What am I working on now? </h2>
-<p> I'm mostly working with Python, C# and Java. </br>
-One of my current projects I'm most excited about is related to Natural Language Processing. It will focus on techniques like Keyword Extraction, Name-Etnity Recognition and Topic Modeling. </br>
+<p> I'm mostly working with Python, C# and SQL. </br>
+I'm currently working on building CAVE application in Unity for virtual sculpting. </br>
+I'm also taking part in a project, focused on analysing medical data to predict the likelihood that a patient has aneurysm. </br>
 In my free time I'm trying to improve my knowledge and skills in Data Science, Machine Learning and programming languages in general.
  </p> 
  </br>
@@ -42,8 +39,7 @@ In my free time I'm trying to improve my knowledge and skills in Data Science, M
 <p> My free time I usually spend listening to music. I like drawing and trying diffrent creative things as well. </br>
 I believe that being open to learning and trying new hobbies help us improve as a person. All gained knowleage and skills can be found usefull. </br>
 That's why I love trying out new things a lot. </br>
-I love learning new languages and currently I'm learning Korean. </br>
-One thing I'm curious about lately is game development and would like to see and learn the process of creating computer games. </p>
+I love learning new languages and currently I'm learning Korean. </br></p>
 
 <!--
 **malasie/malasie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
