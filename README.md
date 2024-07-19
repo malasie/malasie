@@ -3,10 +3,10 @@
 <h3 align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"> </h3></br>
 <h2> Who am I? </h2>
 <p> My name is Maria ( or Mary )! 😄 </br>
-I'm currently a University Student, studying Mathematics: Geometry and Computer Graphics !  🎓</p>
+I'm currently a university student, studying Mathematics: Geometry and Computer Graphics !  🎓</p>
 </br>
 
-  <h2> Languages I mainly work with </h2>
+  <h2> The languages I work with the most: </h2>
     <p align="center">
     <!-- Python -->
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/></a>
@@ -27,19 +27,18 @@ I'm currently a University Student, studying Mathematics: Geometry and Computer 
 
 
 </br>
-<h2> What am I working on now? </h2>
-<p> I'm mostly working with Python, C# and SQL. </br>
-I'm currently working on building CAVE application in Unity for virtual sculpting. </br>
-I'm also taking part in a project, focused on analysing medical data to predict the likelihood that a patient has aneurysm. </br>
-In my free time I'm trying to improve my knowledge and skills in Data Science, Machine Learning and programming languages in general.
- </p> 
- </br>
- 
-<h2> My interests </h2>
-<p> My free time I usually spend listening to music. I like drawing and trying diffrent creative things as well. </br>
-I believe that being open to learning and trying new hobbies help us improve as a person. All gained knowleage and skills can be found usefull. </br>
-That's why I love trying out new things a lot. </br>
-I love learning new languages and currently I'm learning Korean. </br></p>
+<h2>What am I working on now?</h2>
+<p> I'm mostly working with Python, C#, and SQL. <br>
+Currently, I'm building a CAVE application in Unity for virtual sculpting. <br>
+I'm also involved in a project focused on analyzing medical data to predict the likelihood of aneurysms in patients. <br>
+In my free time, I strive to enhance my knowledge and skills in Data Science, Machine Learning, and programming languages in general.
+</p>
+<br>
+<h2>My interests</h2>
+<p> I usually spend my free time listening to music. I also enjoy drawing and exploring different creative activities. <br>
+I believe that being open to learning and trying new hobbies helps us grow as individuals. Every bit of knowledge and skill can be useful. <br>
+That's why I love trying out new things. <br>
+I also have a passion for learning new languages and am currently studying Korean. <br></p>
 
 <!--
 **malasie/malasie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
