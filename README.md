@@ -28,19 +28,19 @@ I'm currently a university student, studying Mathematics: Geometry and Computer 
 
 </br>
 <h2>What am I working on now?</h2>
-<p> I'm mostly working with Python, C#, and SQL. <br>
-Currently, I'm building a CAVE application in Unity for virtual sculpting. <br>
-I'm also involved in a project focused on analyzing medical data to predict the likelihood of aneurysms in patients. <br>
-In my free time, I strive to enhance my knowledge and skills in Data Science, Machine Learning, and programming languages in general.
-</p>
+<p> I'm primarily working with Python, C#, and SQL. <br>
+Currently, I'm building a CAVE application in Unity designed for virtual sculpting — a pretty exciting project!  <br>
+I’m also involved in a project focused on analyzing medical data to predict the likelihood of aneurysms in patients. 
 <br>
 <h2>My interests</h2>
-<p> I usually spend my free time listening to music. I also enjoy drawing and exploring different creative activities. <br>
-I believe that being open to learning and trying new hobbies helps us grow as individuals. Every bit of knowledge and skill can be useful. <br>
-That's why I love trying out new things. <br>
-I also have a passion for learning new languages and am currently studying Korean. <br></p>
+<p> In my free time, you’ll usually find me listening to music, drawing, or exploring different creative activities. <br>
+I firmly believe that being open to learning and trying new hobbies fosters personal growth. Every bit of knowledge and skill can be invaluable, which is why I’m passionate about trying out new things.<br></p>
 
 <!--
+<br>
+In my free time, I strive to enhance my knowledge and skills in Data Science, Machine Learning, and programming languages in general.
+</p>
+I also have a passion for learning new languages and am currently studying Korean. <br>
 **malasie/malasie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
